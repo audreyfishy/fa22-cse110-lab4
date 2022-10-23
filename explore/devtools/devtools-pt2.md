@@ -1,0 +1,2 @@
+1. Since the the data type of `num1` and `num2` are `string`, not `number`, the `+` operator is concatenating the two strings together instead of adding them. 
+2. To fix this, we can convert the strings to numbers using the `Number()` function.
